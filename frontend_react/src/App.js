@@ -8,17 +8,21 @@ import {
     Testimonials,
     Works,
 } from './container';
+import { Navbar } from './components';
+import './App.scss';
 
 const App = () => {
-    return;
-    <div className='app'>
-        <Header />
-        <About />
-        <Works />
-        <Skills />
-        <Testimonials />
-        <Footer />
-    </div>;
+    return (
+        <div className='app'>
+            <Navbar />
+            <Header />
+            <About />
+            <Works />
+            <Skills />
+            <Testimonials />
+            <Footer />
+        </div>
+    );
 };
 
 export default App;
