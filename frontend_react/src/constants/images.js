@@ -3,6 +3,7 @@ import mobile from '../assets/mobile.png';
 import api from '../assets/api.png';
 import cpp from '../assets/cpp.png';
 import css from '../assets/css.png';
+import ethereum from '../assets/ethereum.png';
 import figma from '../assets/figma.png';
 import flutter from '../assets/flutter.png';
 import git from '../assets/git.png';
@@ -15,6 +16,7 @@ import python from '../assets/python.png';
 import react from '../assets/react.png';
 import redux from '../assets/redux.png';
 import sass from '../assets/sass.png';
+import solidity from '../assets/solidity.svg';
 import typescript from '../assets/typescript.png';
 import vue from '../assets/vue.png';
 
@@ -25,7 +27,7 @@ import about04 from '../assets/about04.png';
 
 import profile from '../assets/profile.png';
 import circle from '../assets/circle.svg';
-import logo from '../assets/logo.png';
+import logo from '../assets/profile-logo.png';
 
 import adidas from '../assets/adidas.png';
 import amazon from '../assets/amazon.png';
@@ -36,37 +38,39 @@ import skype from '../assets/skype.png';
 import spotify from '../assets/spotify.png';
 
 export default {
-    email,
-    mobile,
-    api,
-    cpp,
-    css,
-    figma,
-    flutter,
-    git,
-    graphql,
-    html,
-    javascript,
-    mu5,
-    node,
-    python,
-    react,
-    redux,
-    sass,
-    typescript,
-    vue,
-    about01,
-    about02,
-    about03,
-    about04,
-    profile,
-    circle,
-    logo,
-    adidas,
-    amazon,
-    asus,
-    bolt,
-    nb,
-    skype,
-    spotify,
+  email,
+  mobile,
+  api,
+  cpp,
+  css,
+  ethereum,
+  figma,
+  flutter,
+  git,
+  graphql,
+  html,
+  javascript,
+  mu5,
+  node,
+  python,
+  react,
+  redux,
+  sass,
+  solidity,
+  typescript,
+  vue,
+  about01,
+  about02,
+  about03,
+  about04,
+  profile,
+  circle,
+  logo,
+  adidas,
+  amazon,
+  asus,
+  bolt,
+  nb,
+  skype,
+  spotify,
 };

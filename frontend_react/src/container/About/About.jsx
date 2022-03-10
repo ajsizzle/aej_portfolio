@@ -17,7 +17,7 @@ const About = () => {
   return (
     <>
       <h2 className='head-text'>
-        I know that
+        I Know That
         <span> Good Development</span>
         <br />
         Means
