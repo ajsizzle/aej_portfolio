@@ -1,5 +1,6 @@
 import React from 'react';
 
+// eslint-disable-next-line no-unused-vars
 import { About, Footer, Header, Skills, Testimonial, Works } from './container';
 import { Navbar } from './components';
 import './App.scss';
